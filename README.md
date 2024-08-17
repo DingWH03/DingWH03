@@ -19,6 +19,8 @@ Welcome to my GitHub profile! Here’s a little bit about me:
 - 📫 **How to reach me**: 
   - Email: [dingwh2023@126.com](mailto:dingwh2023@126.com)
   - GitHub: [DingWH03](https://github.com/DingWH03)
+  - Blog: [blog.cxhap.top](https://blog.cxhap.top)
+  - Personal Website: [cxhap.top](https://cxhap.top)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: 
   - I’m passionate about programming and Linux, and I enjoy solving complex problems through coding.
